@@ -1,5 +1,5 @@
 # Welcome to Math Utility Repository
-## You will find in this repop the library to support some math operations, e.g. compute the factorial,...
+## You will find in this repo the library to support some math operations, e.g. compute the factorial,...
 
 ## In this repo:
 * Java source code of MathUtility class
